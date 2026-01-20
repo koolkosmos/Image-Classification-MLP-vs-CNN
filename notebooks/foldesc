@@ -1,0 +1,6 @@
+Folder Decription:
+
+│   ├── 01_mlp_baseline.ipynb
+│   ├── 02_cnn_model.ipynb
+│   ├── 03_feature_map_visualization.ipynb
+│   └── 04_stride_experiment.ipynb
