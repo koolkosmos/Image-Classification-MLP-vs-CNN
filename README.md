@@ -1,2 +1,2 @@
-# Image-Classification MLP vs CNN
+# Image Classification MLP vs CNN
 Experiment in progress.... :^)
